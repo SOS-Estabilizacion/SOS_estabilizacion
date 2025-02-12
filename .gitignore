@@ -1,5 +1,6 @@
 .quarto
 .quarto/*
 DS_Store
+docs/
 
 /.quarto/
