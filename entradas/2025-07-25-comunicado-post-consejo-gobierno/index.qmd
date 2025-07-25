@@ -1,13 +1,10 @@
 ---
-title: "Comunicado del colectivo SOS Plan de Estabilización por Necesidades de Investigación de la UGR después del Consejo de Gobierno del 14 de Julio"
-description: "Comunicado del colectivo SOS Plan de Estabilización por Necesidades de Investigación de la UGR después del Consejo de Gobierno del 14 de Julio"
+title: "Comunicado del colectivo *SOS Plan de Estabilización por Necesidades de Investigación* de la UGR después del Consejo de Gobierno del 14 de Julio"
 date: 25-07-2025
 categories: [sos_plan] # self-defined categories
 image: sos_plan.png
 draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
 ---
-
-# Comunicado del colectivo *SOS Plan de Estabilización por Necesidades de Investigación* de la UGR después del Consejo de Gobierno del 14 de Julio
 
 El Consejo de Gobierno de la Universidad de Granada aprobó el 14 de julio los criterios de participación de las áreas de conocimiento en el plan de estabilización para el curso 2025-2026. Esta decisión pone fin a la incertidumbre que ha soportado la comunidad universitaria desde la polémica incorporación del ambiguo término “necesidades docentes” al plan de estabilización hace medio año. Las principales novedades son: 
 
