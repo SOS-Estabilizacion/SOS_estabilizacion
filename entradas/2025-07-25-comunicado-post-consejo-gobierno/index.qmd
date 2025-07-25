@@ -1,0 +1,35 @@
+---
+title: "Comunicado del colectivo SOS Plan de Estabilización por Necesidades de Investigación de la UGR después del Consejo de Gobierno del 14 de Julio"
+description: "Comunicado del colectivo SOS Plan de Estabilización por Necesidades de Investigación de la UGR después del Consejo de Gobierno del 14 de Julio"
+date: 25-07-2025
+categories: [sos_plan] # self-defined categories
+image: sos_plan.png
+draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
+---
+
+# Comunicado del colectivo *SOS Plan de Estabilización por Necesidades de Investigación* de la UGR después del Consejo de Gobierno del 14 de Julio
+
+El Consejo de Gobierno de la Universidad de Granada aprobó el 14 de julio los criterios de participación de las áreas de conocimiento en el plan de estabilización para el curso 2025-2026. Esta decisión pone fin a la incertidumbre que ha soportado la comunidad universitaria desde la polémica incorporación del ambiguo término “necesidades docentes” al plan de estabilización hace medio año. Las principales novedades son: 
+
+1. El personal investigador que sea beneficiario de los programas ATRAE, Beatriz Galindo, ERC y Talentia Senior se podrá incorporar a cualquier área del conocimiento.  
+2. La definición de necesidades docentes queda finalmente aclarada al usar el mismo criterio que regula la apertura de plazas de profesorado ayudante doctor. 
+3. La incorporación de personal investigador a la mayoría de áreas, aquellas sin déficit docente, dependerá del porcentaje relativo de personas en el plan de estabilización respecto al total del PDI. Aquellas áreas que sobrepasen el 20% no podrán acogerse al plan de estabilización durante este curso académico. 
+
+Esta propuesta ha sido desarrollada entre dos actores principales en las negociaciones de la mesa sectorial del PDI: el Vicerrectorado de Investigación y el sindicato CCOO. Desde el colectivo #SOSPlanEstabilizaciónUGR queremos resaltar que [la movilización de la comunidad universitaria](https://sos-estabilizacion.github.io/SOS_estabilizacion/) ha sido determinante a la hora de salvaguardar, aunque sea en parte, el espíritu del plan de estabilización. 
+
+Desde su creación en 2017, como una iniciativa pionera entre las Universidades andaluzas, el Plan ha sido un instrumento central de la UGR para la atracción de talento investigador de excelencia, objetivo que no debería plantear incomodidad para nadie.
+
+Queremos agradecer tanto al equipo de Gobierno como a CCOO que hayan tenido en cuenta las inquietudes expresadas en su momento a través de una carta que llegó a superar las 200 firmas de muy diferentes figuras del PDI de la UGR, y hayan alcanzado un acuerdo que, aunque de mínimos, mantiene vivas las posibilidades de la Universidad de Granada de competir en términos de excelencia investigadora; así como el compromiso expresado en campaña por el actual equipo de Gobierno de “reforzar la apuesta por una investigación de excelencia, que atrae talento, apoya y motiva a sus investigadores” y de “incentivar a los departamentos, grupos e institutos de investigación a que participen en programas de atracción de talento”.
+
+Resulta sorprendente la reacción de algunos representantes sindicales contra un colectivo (investigadores posdoctorales adscritos a muy diferentes programas altamente competitivos todos ellos) fuertemente precarizado, obligado en muchas ocasiones a desplazarse fuera y dentro del territorio nacional durante años sin una estabilidad laboral clara, postergando o impidiendo en muchas ocasiones la conciliación familiar. La investigación que este colectivo realiza puede ser de excelencia, así lo dicen sus contratos, pero su situación laboral es tan precaria como la de otros colectivos con los que se nos pretende enfrentar por oscuras razones que se nos escapan.
+
+Por nuestra parte, continuaremos reivindicando la vuelta completa al Plan previo a 2025 y el refuerzo de sus objetivos, sin que todo ello repercuta negativamente en el mejor equilibrio del reparto de encargo docente. Entre los puntos que consideramos  claramente mejorables de este nuevo acuerdo se encuentran: 
+
+- El umbral del 20% no deja de ser una elección arbitraria que penaliza más a las áreas de conocimiento pequeñas, dificultando sus posibilidades de crecer. 
+- Algo paradójico es que las jubilaciones no se tengan en cuenta a la hora de calcular la métrica. La reducción del número total de PDI incrementa artificialmente el porcentaje relativo de personal, impidiendo nuevas incorporaciones incluso cuando puedan ser necesarias. 
+- Nos preocupa la aparente ausencia de una planificación a largo plazo agravada por decisiones arbitrarias (como el umbral del 20%) motivadas únicamente por el aspecto económico de la cuestión, no estratégico. El hecho de que este acuerdo solo tenga un año de validez no hace más que entorpecer la planificación de las áreas.
+- En general, estos ajustes van en contra de los intereses de la mayoría de las áreas y del conjunto del PDI, al dificultar el relevo generacional, bloquear la incorporación de talento competitivo y mantener la precariedad estructural.
+
+Por todo ello, insistimos en la importancia de preservar la independencia del plan de estabilización respecto a las necesidades docentes y en la necesidad de mejorar el reparto del encargo docente en la UGR.  
+
+Finalizamos este comunicado agradeciendo nuevamente la movilización de toda la comunidad universitaria en defensa de un modelo de Universidad comprometido con la excelencia investigadora, a CCOO por mostrar interés por la movilización, y al equipo de Gobierno por mantener, aunque sea en parte, su compromiso expresado en campaña en las circunstancias actuales.

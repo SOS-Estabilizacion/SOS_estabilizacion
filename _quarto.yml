@@ -9,6 +9,8 @@ website:
     left:
       - href: index.qmd
         text: Inicio
+      - href: entradas.qmd
+        text: Entradas
       - href: about.qmd
         text: Sobre nosotros
 
